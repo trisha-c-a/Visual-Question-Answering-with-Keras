@@ -1,0 +1,4511 @@
+flooded
+flooded
+non flooded
+3
+3
+non flooded
+4
+Yes
+non flooded
+4
+No
+non flooded
+non flooded
+4
+4
+non flooded
+non flooded
+7
+No
+7
+non flooded
+1
+non flooded
+1
+Yes
+non flooded
+non flooded
+Yes
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+3
+3
+2
+non flooded
+non flooded
+2
+No
+non flooded
+Yes
+6
+non flooded
+non flooded
+6
+5
+No
+5
+non flooded
+non flooded
+Yes
+4
+non flooded
+4
+non flooded
+non flooded
+Yes
+3
+3
+non flooded
+non flooded
+non flooded
+Yes
+3
+3
+non flooded
+non flooded
+No
+non flooded
+non flooded
+1
+1
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+1
+1
+flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+No
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+No
+No
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+No
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+6
+Yes
+6
+non flooded
+non flooded
+No
+3
+non flooded
+3
+non flooded
+non flooded
+3
+3
+non flooded
+Yes
+non flooded
+2
+non flooded
+2
+Yes
+2
+2
+non flooded
+non flooded
+Yes
+4
+non flooded
+4
+non flooded
+No
+non flooded
+4
+No
+4
+non flooded
+No
+non flooded
+6
+non flooded
+6
+2
+No
+non flooded
+2
+non flooded
+non flooded
+non flooded
+2
+2
+Yes
+non flooded
+4
+4
+non flooded
+No
+3
+non flooded
+3
+non flooded
+No
+non flooded
+2
+2
+No
+non flooded
+non flooded
+No
+2
+2
+non flooded
+non flooded
+1
+No
+1
+non flooded
+non flooded
+Yes
+non flooded
+2
+2
+non flooded
+3
+non flooded
+3
+3
+non flooded
+3
+non flooded
+4
+4
+non flooded
+3
+3
+2
+non flooded
+2
+4
+4
+non flooded
+non flooded
+4
+4
+3
+non flooded
+3
+3
+3
+non flooded
+3
+Yes
+non flooded
+3
+non flooded
+non flooded
+non flooded
+3
+3
+Yes
+6
+non flooded
+non flooded
+No
+6
+non flooded
+1
+1
+non flooded
+Yes
+2
+Yes
+non flooded
+non flooded
+2
+2
+2
+non flooded
+non flooded
+2
+2
+3
+non flooded
+3
+7
+non flooded
+7
+5
+5
+non flooded
+7
+non flooded
+7
+non flooded
+No
+3
+non flooded
+No
+3
+non flooded
+non flooded
+non flooded
+Yes
+5
+5
+non flooded
+non flooded
+2
+2
+flooded
+non flooded
+non flooded
+No
+2
+non flooded
+2
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+1
+non flooded
+1
+3
+non flooded
+3
+4
+non flooded
+4
+non flooded
+4
+4
+non flooded
+2
+2
+non flooded
+4
+4
+3
+non flooded
+3
+non flooded
+4
+4
+non flooded
+4
+4
+4
+non flooded
+4
+5
+5
+non flooded
+non flooded
+3
+3
+5
+non flooded
+5
+non flooded
+4
+4
+5
+non flooded
+5
+non flooded
+5
+5
+non flooded
+3
+No
+non flooded
+3
+3
+non flooded
+3
+non flooded
+non flooded
+2
+Yes
+2
+1
+non flooded
+Yes
+non flooded
+1
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+1
+non flooded
+1
+1
+non flooded
+1
+non flooded
+Yes
+non flooded
+non flooded
+2
+non flooded
+2
+2
+non flooded
+2
+4
+non flooded
+4
+5
+non flooded
+No
+5
+non flooded
+3
+3
+non flooded
+non flooded
+Yes
+3
+Yes
+non flooded
+non flooded
+3
+5
+Yes
+5
+non flooded
+non flooded
+non flooded
+4
+Yes
+4
+non flooded
+non flooded
+No
+4
+4
+non flooded
+6
+No
+non flooded
+6
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+flooded
+flooded
+non flooded
+flooded
+No
+flooded
+flooded
+flooded
+No
+non flooded
+non flooded
+Yes
+flooded
+Yes
+flooded,non flooded
+non flooded
+Yes
+flooded
+flooded
+Yes
+non flooded
+flooded
+non flooded
+No
+non flooded
+flooded
+Yes
+non flooded
+No
+flooded
+flooded
+non flooded
+non flooded
+Yes
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+Yes
+5
+5
+non flooded
+non flooded
+non flooded
+3
+Yes
+3
+non flooded
+flooded
+Yes
+non flooded
+non flooded
+non flooded
+4
+4
+Yes
+non flooded
+No
+5
+non flooded
+non flooded
+5
+4
+non flooded
+Yes
+4
+non flooded
+Yes
+non flooded
+4
+non flooded
+4
+non flooded
+Yes
+non flooded
+5
+5
+4
+No
+non flooded
+non flooded
+4
+non flooded
+Yes
+5
+non flooded
+5
+non flooded
+Yes
+4
+non flooded
+4
+non flooded
+non flooded
+No
+5
+No
+non flooded
+5
+non flooded
+Yes
+4
+non flooded
+non flooded
+4
+non flooded
+4
+Yes
+4
+non flooded
+No
+4
+non flooded
+non flooded
+4
+No
+non flooded
+4
+non flooded
+4
+non flooded
+No
+non flooded
+6
+6
+non flooded
+Yes
+non flooded
+6
+6
+3
+non flooded
+non flooded
+3
+Yes
+4
+non flooded
+4
+non flooded
+No
+1
+1
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+3
+3
+Yes
+non flooded
+non flooded
+4
+non flooded
+non flooded
+4
+Yes
+flooded
+flooded
+No
+13
+6
+7
+flooded
+4
+14
+flooded
+18
+Yes
+17
+flooded
+flooded
+9
+8
+Yes
+flooded
+flooded
+No
+14
+14
+2
+13
+flooded
+15
+flooded
+Yes
+No
+13
+flooded
+13
+flooded
+flooded
+1
+11
+12
+No
+flooded
+flooded
+flooded
+Yes
+9
+8
+1
+3
+flooded
+7
+4
+flooded
+No
+10
+No
+flooded
+flooded
+5
+5
+No
+2
+flooded
+11
+flooded
+9
+10
+4
+14
+flooded
+flooded
+No
+Yes
+flooded
+15
+flooded
+15
+6
+6
+non flooded
+non flooded
+Yes
+6
+non flooded
+6
+6
+non flooded
+6
+5
+5
+non flooded
+5
+5
+non flooded
+5
+5
+non flooded
+4
+non flooded
+4
+4
+non flooded
+4
+4
+non flooded
+4
+3
+3
+non flooded
+non flooded
+3
+3
+3
+non flooded
+3
+non flooded
+3
+3
+3
+non flooded
+3
+3
+non flooded
+3
+3
+non flooded
+3
+No
+non flooded
+4
+4
+non flooded
+non flooded
+4
+4
+non flooded
+4
+Yes
+4
+non flooded
+non flooded
+Yes
+non flooded
+3
+3
+non flooded
+Yes
+non flooded
+3
+3
+non flooded
+6
+non flooded
+6
+6
+Yes
+6
+non flooded
+non flooded
+non flooded
+No
+non flooded
+7
+non flooded
+7
+No
+non flooded
+non flooded
+No
+8
+non flooded
+8
+No
+8
+non flooded
+non flooded
+8
+6
+Yes
+non flooded
+non flooded
+6
+Yes
+non flooded
+6
+non flooded
+6
+non flooded
+No
+6
+6
+non flooded
+6
+6
+non flooded
+7
+non flooded
+7
+Yes
+non flooded
+No
+6
+6
+non flooded
+non flooded
+non flooded
+non flooded
+6
+6
+Yes
+non flooded
+No
+non flooded
+7
+7
+8
+No
+non flooded
+non flooded
+8
+8
+8
+Yes
+non flooded
+non flooded
+3
+non flooded
+non flooded
+Yes
+3
+5
+non flooded
+5
+non flooded
+Yes
+non flooded
+non flooded
+4
+No
+4
+non flooded
+non flooded
+5
+5
+No
+4
+Yes
+4
+non flooded
+non flooded
+4
+4
+non flooded
+non flooded
+No
+4
+non flooded
+No
+4
+non flooded
+4
+non flooded
+non flooded
+Yes
+4
+3
+No
+3
+non flooded
+non flooded
+non flooded
+2
+2
+non flooded
+Yes
+1
+non flooded
+1
+non flooded
+non flooded
+1
+non flooded
+1
+2
+2
+non flooded
+non flooded
+No
+non flooded
+3
+3
+non flooded
+non flooded
+No
+1
+1
+3
+No
+non flooded
+3
+non flooded
+non flooded
+non flooded
+2
+2
+Yes
+non flooded
+1
+Yes
+non flooded
+1
+7
+non flooded
+7
+7
+Yes
+non flooded
+non flooded
+7
+non flooded
+non flooded
+8
+8
+No
+non flooded
+No
+5
+non flooded
+5
+6
+6
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+5
+5
+non flooded
+non flooded
+No
+8
+8
+6
+No
+non flooded
+non flooded
+6
+No
+non flooded
+7
+non flooded
+7
+non flooded
+12
+Yes
+12
+non flooded
+non flooded
+non flooded
+non flooded
+3
+3
+Yes
+non flooded
+Yes
+non flooded
+3
+3
+No
+non flooded
+2
+2
+non flooded
+non flooded
+5
+non flooded
+Yes
+5
+6
+non flooded
+No
+6
+non flooded
+6
+non flooded
+non flooded
+6
+No
+3
+3
+non flooded
+non flooded
+No
+non flooded
+4
+Yes
+4
+non flooded
+Yes
+3
+3
+non flooded
+non flooded
+non flooded
+4
+non flooded
+4
+No
+non flooded
+3
+3
+non flooded
+No
+4
+non flooded
+non flooded
+Yes
+4
+non flooded
+No
+4
+4
+non flooded
+Yes
+4
+4
+non flooded
+non flooded
+non flooded
+non flooded
+5
+5
+Yes
+Yes
+3
+3
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+4
+4
+non flooded
+3
+No
+non flooded
+3
+1
+non flooded
+non flooded
+No
+1
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+No
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+1
+1
+non flooded
+non flooded
+No
+1
+non flooded
+1
+non flooded
+No
+No
+2
+2
+non flooded
+non flooded
+non flooded
+No
+2
+2
+non flooded
+4
+Yes
+4
+non flooded
+non flooded
+No
+3
+3
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+4
+4
+non flooded
+non flooded
+3
+No
+3
+non flooded
+non flooded
+4
+No
+4
+No
+3
+non flooded
+non flooded
+3
+non flooded
+non flooded
+2
+2
+No
+2
+flooded
+non flooded
+2
+No
+Yes
+3
+3
+non flooded
+non flooded
+non flooded
+2
+non flooded
+No
+2
+2
+2
+non flooded
+Yes
+non flooded
+No
+non flooded
+2
+2
+non flooded
+non flooded
+1
+No
+1
+non flooded
+2
+non flooded
+non flooded
+2
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+3
+3
+non flooded
+non flooded
+4
+4
+No
+3
+non flooded
+non flooded
+No
+3
+non flooded
+No
+3
+3
+non flooded
+4
+non flooded
+No
+non flooded
+4
+No
+non flooded
+4
+4
+non flooded
+non flooded
+non flooded
+No
+3
+3
+4
+non flooded
+4
+No
+non flooded
+non flooded
+non flooded
+4
+4
+Yes
+No
+3
+3
+non flooded
+non flooded
+3
+non flooded
+3
+Yes
+non flooded
+non flooded
+3
+non flooded
+3
+No
+non flooded
+Yes
+3
+non flooded
+3
+non flooded
+3
+No
+non flooded
+3
+Yes
+3
+non flooded
+non flooded
+3
+non flooded
+Yes
+2
+non flooded
+2
+Yes
+non flooded
+non flooded
+2
+2
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+1
+non flooded
+1
+non flooded
+non flooded
+1
+1
+non flooded
+1
+1
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+1
+1
+non flooded
+1
+1
+non flooded
+non flooded
+1
+1
+2
+2
+non flooded
+2
+non flooded
+2
+non flooded
+2
+2
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+1
+1
+non flooded
+1
+Yes
+1
+non flooded
+non flooded
+non flooded
+non flooded
+1
+Yes
+1
+non flooded
+1
+1
+non flooded
+No
+1
+Yes
+non flooded
+1
+non flooded
+non flooded
+non flooded
+1
+No
+1
+non flooded
+Yes
+1
+non flooded
+1
+4
+Yes
+non flooded
+4
+non flooded
+No
+non flooded
+5
+non flooded
+5
+non flooded
+3
+3
+No
+non flooded
+non flooded
+3
+non flooded
+Yes
+3
+non flooded
+Yes
+3
+3
+non flooded
+Yes
+non flooded
+non flooded
+2
+2
+2
+No
+2
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+3
+non flooded
+3
+1
+1
+Yes
+non flooded
+non flooded
+1
+non flooded
+non flooded
+1
+No
+non flooded
+1
+non flooded
+Yes
+1
+non flooded
+No
+1
+non flooded
+1
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+5
+5
+non flooded
+Yes
+non flooded
+4
+non flooded
+non flooded
+No
+4
+non flooded
+No
+2
+non flooded
+2
+non flooded
+flooded
+Yes
+Yes
+non flooded
+1
+1
+flooded
+1
+1
+flooded
+Yes
+non flooded
+flooded
+non flooded
+2
+No
+2
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+1
+Yes
+1
+non flooded
+non flooded
+non flooded
+3
+No
+3
+non flooded
+non flooded
+No
+non flooded
+3
+3
+4
+4
+Yes
+non flooded
+non flooded
+No
+15
+flooded
+3
+12
+flooded
+flooded
+No
+13
+flooded
+13
+13
+flooded
+13
+No
+flooded
+16
+flooded
+No
+flooded
+16
+15
+flooded
+flooded
+15
+Yes
+flooded
+16
+Yes
+16
+flooded
+No
+flooded
+16
+flooded
+16
+No
+flooded
+flooded
+19
+19
+flooded
+flooded
+Yes
+21
+21
+flooded
+9
+flooded
+9
+Yes
+flooded
+flooded
+5
+5
+Yes
+Yes
+flooded
+3
+3
+6
+flooded
+14
+flooded
+14
+flooded
+No
+flooded
+14
+Yes
+14
+flooded
+14
+flooded
+14
+Yes
+flooded
+flooded
+flooded
+14
+14
+No
+flooded
+4
+flooded
+Yes
+4
+Yes
+4
+flooded
+flooded
+4
+non flooded
+8
+8
+4
+2
+flooded
+6
+Yes
+flooded
+flooded
+5
+2
+flooded
+Yes
+7
+2
+6
+flooded
+4
+flooded
+No
+flooded
+flooded
+No
+1
+4
+3
+non flooded
+non flooded
+2
+No
+2
+6
+flooded
+flooded
+4
+2
+No
+7
+7
+flooded
+flooded
+Yes
+5
+No
+7
+2
+flooded
+flooded
+non flooded
+4
+4
+Yes
+flooded
+1
+Yes
+1
+flooded
+flooded
+flooded
+Yes
+3
+flooded
+3
+Yes
+flooded
+5
+5
+flooded,non flooded
+flooded
+flooded,non flooded
+2
+16
+18
+Yes
+flooded
+13
+flooded
+Yes
+13
+13
+flooded
+flooded
+Yes
+13
+Yes
+9
+8
+flooded
+1
+flooded
+flooded
+Yes
+7
+9
+flooded
+16
+Yes
+4
+6
+10
+flooded
+flooded
+16
+flooded
+13
+No
+3
+flooded
+16
+flooded
+8
+flooded
+8
+No
+15
+7
+8
+Yes
+flooded
+flooded
+17
+Yes
+17
+flooded
+flooded
+18
+14
+No
+flooded
+4
+flooded
+flooded
+6
+14
+flooded
+Yes
+20
+flooded
+20
+flooded
+18
+2
+Yes
+Yes
+18
+18
+flooded
+flooded
+19
+Yes
+flooded
+flooded
+16
+3
+flooded
+23
+20
+3
+Yes
+flooded
+23
+flooded
+flooded
+Yes
+23
+flooded
+flooded
+No
+24
+1
+23
+22
+flooded
+flooded
+No
+22
+flooded
+flooded
+No
+23
+23
+flooded
+2
+15
+17
+flooded
+Yes
+No
+1
+16
+17
+flooded
+flooded
+No
+flooded
+flooded
+8
+8
+flooded
+9
+flooded
+9
+Yes
+No
+flooded
+flooded
+24
+24
+11
+Yes
+11
+flooded
+flooded
+3
+non flooded
+3
+flooded
+2
+2
+4
+flooded
+flooded
+No
+4
+4
+flooded
+4
+No
+flooded
+flooded
+6
+flooded
+1
+5
+Yes
+flooded
+Yes
+7
+7
+flooded
+flooded
+No
+flooded
+11
+11
+flooded
+7
+1
+flooded
+No
+8
+flooded
+flooded
+8
+Yes
+8
+flooded
+Yes
+2
+flooded
+1
+1
+2
+flooded
+flooded
+3
+No
+5
+4
+Yes
+1
+flooded
+flooded
+3
+2
+flooded
+No
+5
+flooded
+3
+11
+3
+Yes
+flooded
+14
+flooded
+17
+17
+flooded
+No
+flooded
+flooded
+18
+No
+flooded
+18
+flooded
+flooded
+No
+21
+21
+flooded
+17
+flooded
+17
+Yes
+flooded
+1
+No
+flooded
+24
+25
+3
+30
+flooded
+Yes
+flooded
+27
+flooded
+24
+flooded
+24
+No
+flooded
+21
+21
+Yes
+flooded
+flooded
+19
+flooded
+19
+Yes
+20
+flooded
+20
+No
+flooded
+flooded
+flooded
+Yes
+14
+14
+flooded
+11
+11
+29
+flooded
+No
+flooded
+29
+flooded
+30
+Yes
+30
+flooded
+flooded
+No
+flooded
+20
+20
+flooded
+flooded
+11
+11
+No
+flooded
+7
+7
+1
+flooded
+1
+6
+non flooded
+6
+9
+flooded
+9
+No
+flooded
+No
+flooded
+flooded
+7
+7
+flooded
+flooded
+No
+6
+6
+4
+flooded
+No
+4
+flooded
+flooded
+flooded
+2
+2
+Yes
+flooded
+Yes
+2
+flooded
+2
+4
+flooded
+flooded
+4
+No
+5
+flooded
+Yes
+9
+flooded
+4
+No
+flooded
+2
+10
+flooded
+8
+No
+flooded
+1
+9
+10
+flooded
+flooded
+13
+flooded
+4
+9
+Yes
+13
+flooded
+flooded
+Yes
+13
+flooded
+flooded
+14
+14
+No
+2
+10
+Yes
+flooded
+flooded
+12
+flooded
+14
+14
+No
+flooded
+14
+No
+flooded
+flooded
+13
+1
+16
+16
+flooded
+flooded
+Yes
+16
+flooded
+16
+flooded
+No
+10
+10
+No
+flooded
+flooded
+3
+Yes
+flooded
+7
+flooded
+4
+11
+2
+13
+No
+flooded
+flooded
+17
+flooded
+17
+No
+flooded
+Yes
+16
+23
+flooded
+7
+flooded
+16
+Yes
+16
+flooded
+flooded
+No
+16
+16
+flooded
+flooded
+20
+flooded
+Yes
+20
+flooded
+23
+No
+23
+flooded
+flooded
+flooded
+23
+Yes
+23
+flooded
+21
+21
+flooded
+No
+flooded
+22
+No
+flooded
+22
+flooded
+19
+Yes
+19
+flooded
+flooded
+No
+flooded
+17
+flooded
+17
+No
+30
+flooded
+30
+flooded
+non flooded
+9
+9
+non flooded
+No
+flooded
+flooded
+flooded
+1
+1
+flooded
+31
+No
+31
+flooded
+No
+13
+13
+flooded
+flooded
+No
+flooded
+flooded
+15
+15
+20
+flooded
+20
+flooded
+No
+23
+flooded
+flooded
+23
+Yes
+23
+No
+flooded
+flooded
+23
+24
+24
+flooded
+flooded
+Yes
+flooded
+23
+2
+flooded
+Yes
+25
+21
+flooded
+No
+21
+flooded
+28
+flooded
+28
+flooded
+No
+flooded
+25
+flooded
+25
+Yes
+25
+flooded
+25
+Yes
+flooded
+13
+flooded
+13
+Yes
+flooded,non flooded
+16
+flooded
+flooded
+No
+16
+22
+flooded
+flooded
+22
+Yes
+flooded
+16
+flooded
+16
+Yes
+15
+flooded
+flooded
+15
+No
+16
+16
+Yes
+flooded
+flooded
+12
+9
+3
+No
+flooded
+flooded
+flooded
+13
+11
+2
+Yes
+flooded
+13
+13
+No
+flooded
+flooded
+flooded,non flooded
+Yes
+15
+20
+flooded
+35
+11
+flooded
+11
+flooded
+Yes
+Yes
+2
+2
+flooded
+flooded,non flooded
+flooded
+No
+7
+flooded
+7
+8
+flooded
+non flooded
+No
+8
+flooded
+18
+flooded
+No
+18
+flooded
+Yes
+flooded
+18
+19
+1
+flooded
+Yes
+18
+flooded,non flooded
+5
+13
+8
+flooded
+8
+flooded
+Yes
+No
+non flooded
+1
+non flooded
+1
+1
+flooded
+1
+non flooded
+No
+No
+non flooded
+1
+non flooded
+1
+non flooded
+No
+2
+2
+non flooded
+non flooded
+3
+non flooded
+3
+Yes
+non flooded
+3
+3
+non flooded
+No
+2
+non flooded
+Yes
+non flooded
+2
+2
+2
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+1
+1
+non flooded
+1
+1
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+1
+non flooded
+1
+non flooded
+No
+non flooded
+3
+non flooded
+No
+3
+non flooded
+Yes
+3
+3
+non flooded
+No
+3
+non flooded
+3
+non flooded
+4
+non flooded
+No
+4
+non flooded
+3
+No
+3
+non flooded
+non flooded
+non flooded
+Yes
+1
+non flooded
+1
+Yes
+1
+1
+non flooded
+non flooded
+1
+No
+1
+non flooded
+non flooded
+Yes
+1
+non flooded
+1
+non flooded
+1
+No
+non flooded
+1
+non flooded
+1
+No
+non flooded
+1
+flooded
+non flooded
+non flooded
+3
+No
+3
+non flooded
+4
+non flooded
+Yes
+4
+non flooded
+Yes
+3
+non flooded
+3
+non flooded
+2
+2
+Yes
+non flooded
+1
+non flooded
+1
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+3
+3
+non flooded
+5
+non flooded
+5
+non flooded
+5
+5
+non flooded
+5
+5
+non flooded
+4
+4
+4
+4
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+flooded
+flooded
+flooded
+flooded
+2
+non flooded
+2
+1
+non flooded
+1
+1
+1
+non flooded
+1
+Yes
+non flooded
+1
+non flooded
+1
+No
+non flooded
+non flooded
+1
+non flooded
+non flooded
+Yes
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+3
+3
+4
+4
+non flooded
+4
+non flooded
+4
+non flooded
+Yes
+4
+non flooded
+4
+4
+4
+non flooded
+3
+3
+non flooded
+non flooded
+2
+2
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+2
+2
+non flooded
+3
+3
+non flooded
+3
+non flooded
+3
+3
+3
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+No
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+flooded
+Yes
+flooded,non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+1
+1
+non flooded
+1
+1
+2
+2
+non flooded
+Yes
+non flooded
+2
+2
+No
+non flooded
+non flooded
+non flooded
+No
+2
+non flooded
+2
+1
+No
+1
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+No
+non flooded
+non flooded
+1
+No
+1
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+1
+1
+non flooded
+Yes
+1
+non flooded
+1
+non flooded
+1
+1
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+1
+1
+non flooded
+1
+Yes
+non flooded
+1
+non flooded
+1
+No
+non flooded
+1
+flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+1
+non flooded
+1
+2
+No
+non flooded
+2
+non flooded
+non flooded
+4
+Yes
+non flooded
+4
+3
+non flooded
+non flooded
+No
+3
+non flooded
+3
+3
+non flooded
+non flooded
+flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+1
+1
+non flooded
+non flooded
+No
+non flooded
+non flooded
+1
+1
+No
+Yes
+1
+non flooded
+non flooded
+1
+2
+2
+non flooded
+non flooded
+No
+1
+non flooded
+non flooded
+Yes
+1
+1
+non flooded
+non flooded
+No
+1
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+No
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+2
+2
+non flooded
+3
+3
+3
+3
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+2
+Yes
+2
+non flooded
+non flooded
+2
+2
+non flooded
+No
+3
+No
+3
+non flooded
+non flooded
+non flooded
+No
+2
+2
+non flooded
+non flooded
+2
+2
+non flooded
+Yes
+non flooded
+non flooded
+3
+Yes
+3
+3
+3
+non flooded
+No
+non flooded
+No
+2
+non flooded
+non flooded
+2
+non flooded
+No
+non flooded
+1
+1
+non flooded
+2
+non flooded
+2
+No
+2
+No
+non flooded
+2
+non flooded
+1
+non flooded
+Yes
+1
+non flooded
+non flooded
+Yes
+1
+1
+non flooded
+1
+1
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+1
+1
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+2
+2
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+3
+3
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+non flooded
+1
+1
+non flooded
+1
+1
+non flooded
+2
+non flooded
+2
+non flooded
+2
+2
+non flooded
+2
+2
+1
+No
+1
+non flooded
+non flooded
+4
+4
+non flooded
+No
+non flooded
+3
+3
+non flooded
+No
+non flooded
+3
+3
+non flooded
+Yes
+non flooded
+Yes
+4
+non flooded
+non flooded
+4
+2
+non flooded
+2
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+No
+non flooded
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+1
+Yes
+1
+Yes
+non flooded
+non flooded
+4
+4
+Yes
+non flooded
+5
+5
+non flooded
+4
+4
+No
+non flooded
+non flooded
+4
+non flooded
+non flooded
+Yes
+4
+non flooded
+1
+Yes
+non flooded
+1
+non flooded
+1
+non flooded
+Yes
+1
+1
+non flooded
+non flooded
+Yes
+1
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+No
+1
+non flooded
+non flooded
+1
+non flooded
+non flooded
+No
+1
+1
+1
+non flooded
+non flooded
+No
+1
+Yes
+non flooded
+2
+non flooded
+2
+No
+2
+2
+non flooded
+non flooded
+No
+1
+non flooded
+non flooded
+1
+non flooded
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+non flooded
+No
+No
+1
+non flooded
+1
+non flooded
+No
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+flooded
+No
+non flooded
+No
+flooded
+No
+flooded
+non flooded
+flooded
+Yes
+non flooded
+non flooded
+No
+flooded
+non flooded
+No
+flooded
+non flooded
+No
+flooded
+Yes
+non flooded
+flooded
+Yes
+non flooded
+flooded
+Yes
+flooded
+non flooded
+1
+non flooded
+1
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+3
+3
+Yes
+2
+non flooded
+non flooded
+2
+1
+non flooded
+1
+Yes
+non flooded
+1
+non flooded
+No
+1
+non flooded
+non flooded
+Yes
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+No
+non flooded
+Yes
+non flooded
+non flooded
+No
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+Yes
+2
+non flooded
+non flooded
+2
+non flooded
+1
+No
+non flooded
+1
+2
+non flooded
+non flooded
+2
+Yes
+5
+No
+5
+non flooded
+non flooded
+Yes
+non flooded
+3
+non flooded
+3
+non flooded
+4
+No
+4
+non flooded
+No
+non flooded
+non flooded
+3
+3
+non flooded
+non flooded
+3
+Yes
+3
+4
+non flooded
+Yes
+4
+non flooded
+non flooded
+4
+4
+non flooded
+No
+4
+4
+non flooded
+No
+non flooded
+Yes
+non flooded
+5
+non flooded
+5
+non flooded
+non flooded
+6
+Yes
+6
+4
+non flooded
+non flooded
+4
+Yes
+3
+non flooded
+non flooded
+No
+3
+4
+non flooded
+non flooded
+4
+Yes
+3
+3
+non flooded
+non flooded
+Yes
+4
+No
+non flooded
+non flooded
+4
+3
+non flooded
+non flooded
+Yes
+3
+Yes
+4
+4
+non flooded
+non flooded
+2
+Yes
+2
+non flooded
+non flooded
+non flooded
+3
+No
+3
+non flooded
+3
+3
+non flooded
+non flooded
+Yes
+non flooded
+3
+non flooded
+Yes
+3
+Yes
+non flooded
+3
+3
+non flooded
+non flooded
+No
+non flooded
+3
+3
+Yes
+non flooded
+3
+non flooded
+3
+non flooded
+non flooded
+Yes
+non flooded
+Yes
+non flooded
+non flooded
+Yes
+1
+non flooded
+1
+1
+non flooded
+Yes
+non flooded
+1
+non flooded
+2
+Yes
+non flooded
+2
+No
+non flooded
+6
+6
+non flooded
+5
+No
+5
+non flooded
+non flooded
+Yes
+5
+non flooded
+non flooded
+5
+5
+No
+non flooded
+non flooded
+5
+non flooded
+3
+Yes
+non flooded
+3
+non flooded
+4
+4
+Yes
+non flooded
+4
+No
+non flooded
+non flooded
+4
+non flooded
+4
+4
+non flooded
+No
+non flooded
+non flooded
+4
+No
+4
+non flooded
+6
+6
+No
+non flooded
+No
+6
+non flooded
+non flooded
+6
+non flooded
+No
+7
+7
+non flooded
+non flooded
+6
+No
+non flooded
+6
+6
+No
+6
+non flooded
+non flooded
+Yes
+7
+non flooded
+non flooded
+7
+No
+7
+7
+non flooded
+non flooded
+6
+6
+Yes
+non flooded
+non flooded
+non flooded
+6
+Yes
+6
+non flooded
+1
+No
+non flooded
+non flooded
+1
+No
+non flooded
+1
+1
+non flooded
+1
+1
+non flooded
+No
+non flooded
+No
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+non flooded
+non flooded
+Yes
+non flooded
+non flooded
+No
+No
+50
+50
+non flooded
+non flooded
+non flooded
+42
+42
+No
+non flooded
+45
+45
+Yes
+non flooded
+non flooded
+42
+non flooded
+non flooded
+42
+No
+46
+non flooded
+46
+No
+non flooded
+Yes
+non flooded
+non flooded
+36
+36
+10
+No
+non flooded
+non flooded
+10
+8
+8
+non flooded
+Yes
+non flooded
+5
+non flooded
+Yes
+non flooded
+5
+non flooded
+non flooded
+non flooded
+2
+non flooded
+2
+non flooded
+No
+4
+non flooded
+4
+4
+Yes
+non flooded
+4
+non flooded
+non flooded
+2
+2
+No
+non flooded
+non flooded
+non flooded
+6
+Yes
+non flooded
+6
+5
+non flooded
+non flooded
+5
+Yes
+No
+non flooded
+6
+non flooded
+6
+Yes
+3
+non flooded
+3
+non flooded
+non flooded
+Yes
+4
+4
+non flooded
+non flooded
+3
+Yes
+3
+non flooded
+2
+Yes
+2
+non flooded
+non flooded
+2
+2
+non flooded
+Yes
+non flooded
+non flooded
+2
+2
+non flooded
+1
+non flooded
+Yes
+1
+non flooded
+1
+1
+non flooded
+1
+1
+non flooded
+non flooded
+non flooded
+non flooded
+1
+1
+non flooded
+1
+1
+non flooded
+non flooded
+non flooded
+non flooded
+1
+1
+non flooded
+3
+non flooded
+3
+non flooded
+No
