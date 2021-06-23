@@ -17,11 +17,11 @@ For image feature extraction, I experimented with two models—VGG16 and Incepti
 
 The model gave an overall accuracy 0.4254 which could be improved by doing the following:
 
-* Training the model for a greater number of epochs or till it begins to overfit.
+* Training the model for a greater number of epochs or till it converges.
 * Using attention based models for image features, text features or both.
 * Implementing other concatenation techniques such as Multimodal Compact Bilinear Pooling (MCBP)
 
-The challenge was a first for me as I attemtped to use the knowledge I gained from months of reading about VQA systems to finally working on implementing them. 
+The challenge was a first for me as I attempted to use the knowledge I gained from months of reading about VQA systems to finally working on implementing them. 
 As a way forward, I plan to improve my understanding of language models and attention mechanisms before working on more multimodal-based projects. 
 
 * To understand how I extracted image features take a look at [Image_Features_Extraction.ipynb](https://github.com/trisha-c-a/Visual-Question-Answering-with-Keras/blob/main/Image_Features_Extraction.ipynb)
